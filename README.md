@@ -5,9 +5,9 @@ The source codes in the book, C Programming Language, 2nd Edition, written by Br
 * Preface
 * Preface to the First Edition
 * Introduction [v]
-* Chapter 1. A Tutorial Introduction
-  * 1.1 Getting Started
-  * 1.2 Variables and Arithmetic Expressions
+* Chapter 1. A Tutorial Introduction (24 exercises)
+  * 1.1 Getting Started [v]
+  * 1.2 Variables and Arithmetic Expressions [v]
   * 1.3 The For Statement 
   * 1.4 Symbolic Constants
   * 1.5 Character Input and Output
