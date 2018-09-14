@@ -16,4 +16,14 @@ To execute the compiled file `a.out` in the working directory:
 ./a.out
 ```
 
+# 1.2 Variables and Arithmetic Expressions
 
+* Comment: // comment, /*comment */
+* Declaration 
+* Variables: int, float, char
+* Assignment statements
+* `while` loop
+* `printf` formating with `%`. 
+  * `%d`: for int
+  * `%f`: for float
+  * `%s`: for string
