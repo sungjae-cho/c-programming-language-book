@@ -4,7 +4,7 @@ The source codes in the book, C Programming Language, 2nd Edition, written by Br
 ## Contents
 * Preface
 * Preface to the First Edition
-* Introduction
+* Introduction [v]
 * Chapter 1. A Tutorial Introduction
   * 1.1 Getting Started
   * 1.2 Variables and Arithmetic Expressions
